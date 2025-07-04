@@ -1,3 +1,5 @@
 # Classificador_Nivel_Heroi
 
-Projeto DIO com planos de futuramente criar o HTML e o CSS.
+Projeto DIO 
+
+- Ainda falta criar o HTML e o CSS.
